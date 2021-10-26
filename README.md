@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/r3pqi5onpxqtf5rd/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-9-1-collapse/branch/master)
 
-#### Deployment: 
+#### Deployment: <a href="https://sergius92739.github.io/ahj-9.1-collapse/">Github Pages<a>
 
 ---
 
